@@ -1,2 +1,2 @@
 # gentoo
-gentoo overlay
+calculate-linux / gentoo overlay
